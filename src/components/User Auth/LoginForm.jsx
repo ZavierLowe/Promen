@@ -107,7 +107,7 @@ function LoginForm(props) {
                 </div>
             </div>
             <div className="w-1/2 shadow-2xl">
-                <img className="hidden object-cover w-full h-screen md:block" src="https://images.unsplash.com/photo-1519668963014-2308b08e5e9b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=987&q=80"/>
+                <img className="hidden object-cover w-full h-screen md:block" src="https://images.unsplash.com/photo-1519668963014-2308b08e5e9b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=987&q=80" alt='name'/>
             </div>
         </div>
 

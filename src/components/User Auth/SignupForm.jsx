@@ -122,7 +122,7 @@ function SignupForm(props) {
                 </div>
             </div>
             <div className="w-1/2 shadow-2xl">
-                <img className="hidden object-cover w-full h-screen md:block" src="https://images.unsplash.com/photo-1597106776019-b4ecc878c202?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=987&q=80"/>
+                <img className="hidden object-cover w-full h-screen md:block" src="https://images.unsplash.com/photo-1597106776019-b4ecc878c202?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=987&q=80" alt='name'/>
             </div>
         </div>
 
