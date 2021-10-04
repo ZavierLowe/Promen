@@ -20,7 +20,7 @@ This application solves the problem where men can find the best skincare product
 - Users are able to browse for products
 - Users are able to add products to the cart and remove them
 - Users can learn about the three main reasons they should shop on the website
-- Users are able to sigin up fro an account and login to that account when needed
+- Users are able to sigin up for an account and login to that account when needed
 
 ### Technologies Used
 
@@ -40,3 +40,8 @@ This application solves the problem where men can find the best skincare product
 ![Screen Shot 2021-10-03 at 9 59 40 PM](https://user-images.githubusercontent.com/85642176/135783093-11d47499-7828-4586-8437-712881039d7e.png)
 ![Screen Shot 2021-10-03 at 9 59 55 PM](https://user-images.githubusercontent.com/85642176/135783096-511b926a-2f98-4d45-9c35-b6a3d5a584b0.png)
 ![Mens Skincare E-commerce application – All products](https://user-images.githubusercontent.com/85642176/135783118-f32dc15d-4005-4833-8540-c08d7d029d2a.png)
+
+
+##Strech Goals
+- Allowing users to create a wishlist
+- Implementation with stripe to process orders
